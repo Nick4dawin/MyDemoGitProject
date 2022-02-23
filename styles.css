@@ -3,3 +3,18 @@ h1{
     font-family: Helvetica, sans-serif ;
     font-size: larger;
 }
+div{
+    
+   text-align: center;
+    padding: 20 px;
+    background-color: aqua;
+
+}
+p{
+    color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body{
+    text-align: center;
+    
+}
